@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['y_725',['y',['../d5/db4/structvec__3d__.html#a76098d39a382838df3b4b48c3443413b',1,'vec_3d_::y()'],['../d1/d5e/structobservation.html#ab6be1fa7024b2d5f3a30d6c6b70efdd7',1,'observation::y()'],['../d1/d99/structcluster.html#a10fa7010c12d0f03a422d68321495479',1,'cluster::y()']]],
-  ['yaw_726',['yaw',['../d2/de8/structeuler__.html#aad52507cc423ec49847471f6f15dd9d7',1,'euler_']]]
+  ['w_826',['w',['../de/d58/structquaternion__.html#a835e2ba72517fbb29d0d4e3cb4c2914f',1,'quaternion_']]],
+  ['weights_827',['weights',['../d2/daa/structadaline.html#a32e58c03fd9258709eae6138ad0ec657',1,'adaline']]]
 ];
