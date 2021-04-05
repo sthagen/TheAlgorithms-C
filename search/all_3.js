@@ -17,5 +17,7 @@ var searchData=
   ['bubble_5fsort_5f2_2ec_41',['bubble_sort_2.c',['../d2/d6d/bubble__sort__2_8c.html',1,'']]],
   ['bubble_5fsort_5frecursion_2ec_42',['bubble_sort_recursion.c',['../d5/d38/bubble__sort__recursion_8c.html',1,'']]],
   ['bubblesort_43',['bubbleSort',['../dd/de4/bubble__sort_8c.html#aa8989f6c9bfd1f040854fa18b180114f',1,'bubbleSort(int *arr, int size):&#160;bubble_sort.c'],['../d5/d38/bubble__sort__recursion_8c.html#aa8989f6c9bfd1f040854fa18b180114f',1,'bubbleSort(int *arr, int size):&#160;bubble_sort_recursion.c']]],
-  ['bytes_44',['bytes',['../d4/d73/struct_m_e_m_o_r_y___i_n_f_o_r_m_a_t_i_o_n.html#a7f42967fd6562d77ac03445ea6e36a3d',1,'MEMORY_INFORMATION']]]
+  ['buffer_44',['buffer',['../dd/da2/structbuffer.html',1,'']]],
+  ['buffer_45',['Buffer',['../d9/deb/min__printf_8h.html#abf0876f583782407c9e15c60158eec52',1,'min_printf.h']]],
+  ['bytes_46',['bytes',['../d4/d73/struct_m_e_m_o_r_y___i_n_f_o_r_m_a_t_i_o_n.html#a7f42967fd6562d77ac03445ea6e36a3d',1,'MEMORY_INFORMATION']]]
 ];
