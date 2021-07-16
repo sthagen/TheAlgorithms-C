@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['library_20for_203d_20vectors_20_26_20quaternions_922',['Library for 3D Vectors &amp; Quaternions',['../de/d5a/group__quaternions.html',1,'']]]
+  ['library_20for_203d_20vectors_20_26_20quaternions_924',['Library for 3D Vectors &amp; Quaternions',['../de/d5a/group__quaternions.html',1,'']]]
 ];
