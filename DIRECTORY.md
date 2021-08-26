@@ -38,6 +38,7 @@
     * [Red Black Tree](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/red_black_tree.c)
     * [Segment Tree](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/segment_tree.c)
     * [Threaded Binary Trees](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/threaded_binary_trees.c)
+    * [Words Alphabetical](https://github.com/TheAlgorithms/C/blob/master/data_structures/binary_trees/words_alphabetical.c)
   * Dictionary
     * [Dict](https://github.com/TheAlgorithms/C/blob/master/data_structures/dictionary/dict.c)
     * [Dict](https://github.com/TheAlgorithms/C/blob/master/data_structures/dictionary/dict.h)
@@ -355,6 +356,7 @@
   * [Binary Search](https://github.com/TheAlgorithms/C/blob/master/searching/binary_search.c)
   * [Exponential Search](https://github.com/TheAlgorithms/C/blob/master/searching/exponential_search.c)
   * [Fibonacci Search](https://github.com/TheAlgorithms/C/blob/master/searching/fibonacci_search.c)
+  * [Floyd Cycle Detection Algorithm](https://github.com/TheAlgorithms/C/blob/master/searching/floyd_cycle_detection_algorithm.c)
   * [Interpolation Search](https://github.com/TheAlgorithms/C/blob/master/searching/interpolation_search.c)
   * [Jump Search](https://github.com/TheAlgorithms/C/blob/master/searching/jump_search.c)
   * [Linear Search](https://github.com/TheAlgorithms/C/blob/master/searching/linear_search.c)
