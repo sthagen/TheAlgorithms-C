@@ -216,20 +216,20 @@ int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../..
 <div class="line"><a name="l00240"></a><span class="lineno">  240</span>&#160;    }</div>
 <div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160; </div>
 <div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;    printf(<span class="stringliteral">&quot;------- Test 1 -------\n&quot;</span>);</div>
-<div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;    printf(<span class="stringliteral">&quot;Model before fit: %s&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
+<div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;    printf(<span class="stringliteral">&quot;Model before fit: %s\n&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
 <div class="line"><a name="l00244"></a><span class="lineno">  244</span>&#160; </div>
 <div class="line"><a name="l00245"></a><span class="lineno">  245</span>&#160;    <a class="code" href="../../da/d2a/group__adaline.html#gaa52120912e32d2893fe1c6d78da5befd">adaline_fit</a>(&amp;ada, X, Y, N);</div>
 <div class="line"><a name="l00246"></a><span class="lineno">  246</span>&#160;    printf(<span class="stringliteral">&quot;Model after fit: %s\n&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
 <div class="line"><a name="l00247"></a><span class="lineno">  247</span>&#160; </div>
 <div class="line"><a name="l00248"></a><span class="lineno">  248</span>&#160;    <span class="keywordtype">double</span> test_x[] = {5, -3};</div>
 <div class="line"><a name="l00249"></a><span class="lineno">  249</span>&#160;    <span class="keywordtype">int</span> pred = <a class="code" href="../../da/d2a/group__adaline.html#gac70b578aee679005fd336073969c3d94">adaline_predict</a>(&amp;ada, test_x, NULL);</div>
-<div class="line"><a name="l00250"></a><span class="lineno">  250</span>&#160;    printf(<span class="stringliteral">&quot;Predict for x=(5,-3): % d&quot;</span>, pred);</div>
+<div class="line"><a name="l00250"></a><span class="lineno">  250</span>&#160;    printf(<span class="stringliteral">&quot;Predict for x=(5,-3): % d\n&quot;</span>, pred);</div>
 <div class="line"><a name="l00251"></a><span class="lineno">  251</span>&#160;    assert(pred == -1);</div>
 <div class="line"><a name="l00252"></a><span class="lineno">  252</span>&#160;    printf(<span class="stringliteral">&quot; ...passed\n&quot;</span>);</div>
 <div class="line"><a name="l00253"></a><span class="lineno">  253</span>&#160; </div>
 <div class="line"><a name="l00254"></a><span class="lineno">  254</span>&#160;    <span class="keywordtype">double</span> test_x2[] = {5, 8};</div>
 <div class="line"><a name="l00255"></a><span class="lineno">  255</span>&#160;    pred = <a class="code" href="../../da/d2a/group__adaline.html#gac70b578aee679005fd336073969c3d94">adaline_predict</a>(&amp;ada, test_x2, NULL);</div>
-<div class="line"><a name="l00256"></a><span class="lineno">  256</span>&#160;    printf(<span class="stringliteral">&quot;Predict for x=(5, 8): % d&quot;</span>, pred);</div>
+<div class="line"><a name="l00256"></a><span class="lineno">  256</span>&#160;    printf(<span class="stringliteral">&quot;Predict for x=(5, 8): % d\n&quot;</span>, pred);</div>
 <div class="line"><a name="l00257"></a><span class="lineno">  257</span>&#160;    assert(pred == 1);</div>
 <div class="line"><a name="l00258"></a><span class="lineno">  258</span>&#160;    printf(<span class="stringliteral">&quot; ...passed\n&quot;</span>);</div>
 <div class="line"><a name="l00259"></a><span class="lineno">  259</span>&#160; </div>
@@ -302,7 +302,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00294"></a><span class="lineno">  294</span>&#160;    }</div>
 <div class="line"><a name="l00295"></a><span class="lineno">  295</span>&#160; </div>
 <div class="line"><a name="l00296"></a><span class="lineno">  296</span>&#160;    printf(<span class="stringliteral">&quot;------- Test 2 -------\n&quot;</span>);</div>
-<div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;    printf(<span class="stringliteral">&quot;Model before fit: %s&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
+<div class="line"><a name="l00297"></a><span class="lineno">  297</span>&#160;    printf(<span class="stringliteral">&quot;Model before fit: %s\n&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
 <div class="line"><a name="l00298"></a><span class="lineno">  298</span>&#160; </div>
 <div class="line"><a name="l00299"></a><span class="lineno">  299</span>&#160;    <a class="code" href="../../da/d2a/group__adaline.html#gaa52120912e32d2893fe1c6d78da5befd">adaline_fit</a>(&amp;ada, X, Y, N);</div>
 <div class="line"><a name="l00300"></a><span class="lineno">  300</span>&#160;    printf(<span class="stringliteral">&quot;Model after fit: %s\n&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
@@ -317,7 +317,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00309"></a><span class="lineno">  309</span>&#160;        test_x[0] = x0;</div>
 <div class="line"><a name="l00310"></a><span class="lineno">  310</span>&#160;        test_x[1] = x1;</div>
 <div class="line"><a name="l00311"></a><span class="lineno">  311</span>&#160;        <span class="keywordtype">int</span> pred = <a class="code" href="../../da/d2a/group__adaline.html#gac70b578aee679005fd336073969c3d94">adaline_predict</a>(&amp;ada, test_x, NULL);</div>
-<div class="line"><a name="l00312"></a><span class="lineno">  312</span>&#160;        printf(<span class="stringliteral">&quot;Predict for x=(% 3.2f,% 3.2f): % d&quot;</span>, x0, x1, pred);</div>
+<div class="line"><a name="l00312"></a><span class="lineno">  312</span>&#160;        printf(<span class="stringliteral">&quot;Predict for x=(% 3.2f,% 3.2f): % d\n&quot;</span>, x0, x1, pred);</div>
 <div class="line"><a name="l00313"></a><span class="lineno">  313</span>&#160; </div>
 <div class="line"><a name="l00314"></a><span class="lineno">  314</span>&#160;        <span class="keywordtype">int</span> expected_val = (x0 + 3. * x1) &gt; -1 ? 1 : -1;</div>
 <div class="line"><a name="l00315"></a><span class="lineno">  315</span>&#160;        assert(pred == expected_val);</div>
@@ -391,7 +391,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00362"></a><span class="lineno">  362</span>&#160;    }</div>
 <div class="line"><a name="l00363"></a><span class="lineno">  363</span>&#160; </div>
 <div class="line"><a name="l00364"></a><span class="lineno">  364</span>&#160;    printf(<span class="stringliteral">&quot;------- Test 3 -------\n&quot;</span>);</div>
-<div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;    printf(<span class="stringliteral">&quot;Model before fit: %s&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
+<div class="line"><a name="l00365"></a><span class="lineno">  365</span>&#160;    printf(<span class="stringliteral">&quot;Model before fit: %s\n&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
 <div class="line"><a name="l00366"></a><span class="lineno">  366</span>&#160; </div>
 <div class="line"><a name="l00367"></a><span class="lineno">  367</span>&#160;    <a class="code" href="../../da/d2a/group__adaline.html#gaa52120912e32d2893fe1c6d78da5befd">adaline_fit</a>(&amp;ada, X, Y, N);</div>
 <div class="line"><a name="l00368"></a><span class="lineno">  368</span>&#160;    printf(<span class="stringliteral">&quot;Model after fit: %s\n&quot;</span>, <a class="code" href="../../da/d2a/group__adaline.html#ga251695a79baa885cafdcf6d8ed4ac120">adaline_get_weights_str</a>(&amp;ada));</div>
@@ -410,7 +410,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00381"></a><span class="lineno">  381</span>&#160;        test_x[4] = x1 * x1;</div>
 <div class="line"><a name="l00382"></a><span class="lineno">  382</span>&#160;        test_x[5] = x2 * x2;</div>
 <div class="line"><a name="l00383"></a><span class="lineno">  383</span>&#160;        <span class="keywordtype">int</span> pred = <a class="code" href="../../da/d2a/group__adaline.html#gac70b578aee679005fd336073969c3d94">adaline_predict</a>(&amp;ada, test_x, NULL);</div>
-<div class="line"><a name="l00384"></a><span class="lineno">  384</span>&#160;        printf(<span class="stringliteral">&quot;Predict for x=(% 3.2f,% 3.2f): % d&quot;</span>, x0, x1, pred);</div>
+<div class="line"><a name="l00384"></a><span class="lineno">  384</span>&#160;        printf(<span class="stringliteral">&quot;Predict for x=(% 3.2f,% 3.2f): % d\n&quot;</span>, x0, x1, pred);</div>
 <div class="line"><a name="l00385"></a><span class="lineno">  385</span>&#160; </div>
 <div class="line"><a name="l00386"></a><span class="lineno">  386</span>&#160;        <span class="keywordtype">int</span> expected_val = (x0 * x0 + x1 * x1 + x2 * x2) &lt;= 1 ? 1 : -1;</div>
 <div class="line"><a name="l00387"></a><span class="lineno">  387</span>&#160;        assert(pred == expected_val);</div>
