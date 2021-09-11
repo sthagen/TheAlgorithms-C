@@ -1,12 +1,11 @@
 var min__printf_8h =
 [
-    [ "buffer", "dd/da2/structbuffer.html", "dd/da2/structbuffer" ],
+    [ "buffer", "dd/da2/structbuffer.html", null ],
     [ "INT_MAX_LENGTH", "d9/deb/min__printf_8h.html#ab47a4bec9213d96e1dba5171e5db0e25", null ],
-    [ "PRECISION_FOR_FLOAT", "d9/deb/min__printf_8h.html#a58fcb3ed5c71e20574254aaa3a0c0716", null ],
     [ "Buffer", "d9/deb/min__printf_8h.html#abf0876f583782407c9e15c60158eec52", null ],
     [ "get_ch", "d9/deb/min__printf_8h.html#a409d428c337bf5476567a228274f49f1", null ],
     [ "get_number_of_digits", "d9/deb/min__printf_8h.html#aefb40d94d5d9fa2a28bc64755dde096f", null ],
-    [ "get_width_and_precision", "d9/deb/min__printf_8h.html#ab64f8ffba5ed20f3d6cff88e26a79aba", null ],
+    [ "get_width_and_precision", "d9/deb/min__printf_8h.html#aa61e2407aab2c75e9837c77cab937d03", null ],
     [ "is_number", "d9/deb/min__printf_8h.html#ad4908ab912d8dc481225e33ca3285c21", null ],
     [ "min_printf", "d9/deb/min__printf_8h.html#a33e08c05f8c656a0fee465c2e8d2ecf9", null ],
     [ "power_of_ten", "d9/deb/min__printf_8h.html#a8421f89b76edcf21292c5100bfca586b", null ],

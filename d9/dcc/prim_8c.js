@@ -1,6 +1,5 @@
 var prim_8c =
 [
-    [ "INF", "d9/dcc/prim_8c.html#a12c2040f25d8e3a7b9e1c2024c618cb6", null ],
     [ "MAX", "d9/dcc/prim_8c.html#a392fb874e547e582e9c66a08a1f23326", null ],
     [ "main", "d9/dcc/prim_8c.html#abf9e6b7e6f15df4b525a2e7705ba3089", null ],
     [ "minimum", "d9/dcc/prim_8c.html#a72ec66b10f86d67064d34f2b2717fdfc", null ],
