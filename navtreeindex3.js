@@ -1,5 +1,13 @@
 var NAVTREEINDEX3 =
 {
+"de/d7b/group__vec__3d.html#gaa6b5ac18429ffb0131dc8593d31c25a4":[13,0,0,7],
+"de/d7b/group__vec__3d.html#gae25e1f2e973933bef65838601e2de0af":[13,0,0,5],
+"de/d7b/group__vec__3d.html#gae4a49e6bdf13df949e8b23c7925bb5f5":[13,0,0,9],
+"de/d7b/group__vec__3d.html#gaf9ee870d4922e488bdd3e7262485c270":[13,0,0,1],
+"de/dac/sudoku__solver_8c.html":[15,0,11,10],
+"de/dac/sudoku__solver_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[15,0,11,10,1],
+"de/dce/structmin__heap.html":[14,0,25],
+"de/dff/heap__sort__2_8c.html":[15,0,15,4],
 "de/dff/heap__sort__2_8c.html#a00cd944b33a5fe5972111ded9b49793c":[15,0,15,4,0],
 "de/dff/heap__sort__2_8c.html#a619753b978f962aa2337e1fdb4e59e33":[15,0,15,4,1],
 "de/dff/heap__sort__2_8c.html#a672a47d865e7fa18f1ff23001ef4a485":[15,0,15,4,2],
