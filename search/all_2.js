@@ -17,8 +17,9 @@ var searchData=
   ['addmeminfo_14',['addMemInfo',['../db/d84/malloc__dbg_8c.html#a062aa89cafd39a97971a2eb22653ff2a',1,'malloc_dbg.c']]],
   ['addwordtotree_15',['addWordToTree',['../d3/d78/words__alphabetical_8c.html#a0ac11529daf94e98f7114a6e938679a9',1,'words_alphabetical.c']]],
   ['adler32_16',['adler32',['../d7/d3b/group__hash.html#ga506f0227a3b5f9434a503e09a3cb672b',1,'hash_adler32.c']]],
-  ['allocatememoryfornode_17',['allocateMemoryForNode',['../d3/d78/words__alphabetical_8c.html#a1e5ad8401396df36ab585d79f3309fd9',1,'words_alphabetical.c']]],
-  ['array_18',['Array',['../d9/d41/md_data_structures_array__r_e_a_d_m_e.html',1,'']]],
-  ['atexitcalled_19',['atexitCalled',['../db/d84/malloc__dbg_8c.html#ad04afbbcb9f0f10bc7628ec4f0d7c950',1,'malloc_dbg.c']]],
-  ['avlnode_20',['AVLnode',['../d2/d71/struct_a_v_lnode.html',1,'']]]
+  ['alaw_2ec_17',['alaw.c',['../df/d27/alaw_8c.html',1,'']]],
+  ['allocatememoryfornode_18',['allocateMemoryForNode',['../d3/d78/words__alphabetical_8c.html#a1e5ad8401396df36ab585d79f3309fd9',1,'words_alphabetical.c']]],
+  ['array_19',['Array',['../d9/d41/md_data_structures_array__r_e_a_d_m_e.html',1,'']]],
+  ['atexitcalled_20',['atexitCalled',['../db/d84/malloc__dbg_8c.html#ad04afbbcb9f0f10bc7628ec4f0d7c950',1,'malloc_dbg.c']]],
+  ['avlnode_21',['AVLnode',['../d2/d71/struct_a_v_lnode.html',1,'']]]
 ];

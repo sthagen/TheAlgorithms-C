@@ -123,10 +123,10 @@ Macros</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a5bc3659aa0949ea33118c95b1dee5f63"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#a5bc3659aa0949ea33118c95b1dee5f63">shell_sort</a> (char <a class="el" href="../../df/dea/structdata.html">data</a>[][<a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a">MAX_NAME_LEN</a>], int LEN)</td></tr>
+<tr class="memitem:a5bc3659aa0949ea33118c95b1dee5f63"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#a5bc3659aa0949ea33118c95b1dee5f63">shell_sort</a> (char <a class="el" href="../../df/dea/structdata.html">data</a>[][<a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a">MAX_NAME_LEN</a>], int <a class="el" href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a>)</td></tr>
 <tr class="memdesc:a5bc3659aa0949ea33118c95b1dee5f63"><td class="mdescLeft">&#160;</td><td class="mdescRight">Alphabetical sorting using 'shell sort' algorithm.  <a href="../../dd/d8b/problem__22_2sol1_8c.html#a5bc3659aa0949ea33118c95b1dee5f63">More...</a><br /></td></tr>
 <tr class="separator:a5bc3659aa0949ea33118c95b1dee5f63"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae359b8a4656b164c91ef91a084c15c9d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#ae359b8a4656b164c91ef91a084c15c9d">lazy_sort</a> (char <a class="el" href="../../df/dea/structdata.html">data</a>[][<a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a">MAX_NAME_LEN</a>], int LEN)</td></tr>
+<tr class="memitem:ae359b8a4656b164c91ef91a084c15c9d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#ae359b8a4656b164c91ef91a084c15c9d">lazy_sort</a> (char <a class="el" href="../../df/dea/structdata.html">data</a>[][<a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a">MAX_NAME_LEN</a>], int <a class="el" href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a>)</td></tr>
 <tr class="memdesc:ae359b8a4656b164c91ef91a084c15c9d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Alphabetical sorting using 'lazy sort' algorithm.  <a href="../../dd/d8b/problem__22_2sol1_8c.html#ae359b8a4656b164c91ef91a084c15c9d">More...</a><br /></td></tr>
 <tr class="separator:ae359b8a4656b164c91ef91a084c15c9d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3c04138a5bfe5d72780bb7e82a18e627"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d8b/problem__22_2sol1_8c.html#a3c04138a5bfe5d72780bb7e82a18e627">main</a> (int argc, char **argv)</td></tr>
@@ -166,9 +166,9 @@ Functions</h2></td></tr>
 <p>Alphabetical sorting using 'lazy sort' algorithm. </p>
 <div class="fragment"><div class="line"><a id="l00049" name="l00049"></a><span class="lineno">   49</span>{</div>
 <div class="line"><a id="l00050" name="l00050"></a><span class="lineno">   50</span>    <span class="keywordtype">int</span> i, j;</div>
-<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <span class="keywordflow">for</span> (i = 0; i &lt; LEN; i++)</div>
+<div class="line"><a id="l00051" name="l00051"></a><span class="lineno">   51</span>    <span class="keywordflow">for</span> (i = 0; i &lt; <a class="code hl_define" href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a>; i++)</div>
 <div class="line"><a id="l00052" name="l00052"></a><span class="lineno">   52</span>    {</div>
-<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">for</span> (j = i + 1; j &lt; LEN; j++)</div>
+<div class="line"><a id="l00053" name="l00053"></a><span class="lineno">   53</span>        <span class="keywordflow">for</span> (j = i + 1; j &lt; <a class="code hl_define" href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a>; j++)</div>
 <div class="line"><a id="l00054" name="l00054"></a><span class="lineno">   54</span>        {</div>
 <div class="line"><a id="l00055" name="l00055"></a><span class="lineno">   55</span>            <span class="keywordflow">if</span> (strcmp(<a class="code hl_struct" href="../../df/dea/structdata.html">data</a>[i], <a class="code hl_struct" href="../../df/dea/structdata.html">data</a>[j]) &gt; 0)</div>
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span>            {</div>
@@ -180,9 +180,10 @@ Functions</h2></td></tr>
 <div class="line"><a id="l00062" name="l00062"></a><span class="lineno">   62</span>        }</div>
 <div class="line"><a id="l00063" name="l00063"></a><span class="lineno">   63</span>    }</div>
 <div class="line"><a id="l00064" name="l00064"></a><span class="lineno">   64</span><span class="preprocessor">#ifdef DEBUG</span></div>
-<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    <span class="keywordflow">for</span> (i = 0; i &lt; LEN; i++) printf(<span class="stringliteral">&quot;%s\t&quot;</span>, <a class="code hl_struct" href="../../df/dea/structdata.html">data</a>[i]);</div>
+<div class="line"><a id="l00065" name="l00065"></a><span class="lineno">   65</span>    <span class="keywordflow">for</span> (i = 0; i &lt; <a class="code hl_define" href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a>; i++) printf(<span class="stringliteral">&quot;%s\t&quot;</span>, <a class="code hl_struct" href="../../df/dea/structdata.html">data</a>[i]);</div>
 <div class="line"><a id="l00066" name="l00066"></a><span class="lineno">   66</span><span class="preprocessor">#endif</span></div>
 <div class="line"><a id="l00067" name="l00067"></a><span class="lineno">   67</span>}</div>
+<div class="ttc" id="aalaw_8c_html_a05b49c662c073f89e86804f7856622a0"><div class="ttname"><a href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a></div><div class="ttdeci">#define LEN</div><div class="ttdoc">Linear input code | Compressed code | Linear output code ---------------—+--------------—+-----------...</div><div class="ttdef"><b>Definition:</b> alaw.c:28</div></div>
 <div class="ttc" id="aproblem__22_2sol1_8c_html_afd709f201d7643c3909621f620ea648a"><div class="ttname"><a href="../../dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a">MAX_NAME_LEN</a></div><div class="ttdeci">#define MAX_NAME_LEN</div><div class="ttdoc">Maximum length of each name.</div><div class="ttdef"><b>Definition:</b> sol1.c:15</div></div>
 <div class="ttc" id="astructdata_html"><div class="ttname"><a href="../../df/dea/structdata.html">data</a></div><div class="ttdef"><b>Definition:</b> prime_factoriziation.c:25</div></div>
 </div><!-- fragment -->
@@ -341,7 +342,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a id="l00026" name="l00026"></a><span class="lineno">   26</span>    <span class="keywordflow">for</span> (g = 0; g &lt; gap_len; g++)</div>
 <div class="line"><a id="l00027" name="l00027"></a><span class="lineno">   27</span>    {</div>
 <div class="line"><a id="l00028" name="l00028"></a><span class="lineno">   28</span>        <span class="keywordtype">int</span> gap = gaps[g];</div>
-<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        <span class="keywordflow">for</span> (i = gap; i &lt; LEN; i++)</div>
+<div class="line"><a id="l00029" name="l00029"></a><span class="lineno">   29</span>        <span class="keywordflow">for</span> (i = gap; i &lt; <a class="code hl_define" href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a>; i++)</div>
 <div class="line"><a id="l00030" name="l00030"></a><span class="lineno">   30</span>        {</div>
 <div class="line"><a id="l00031" name="l00031"></a><span class="lineno">   31</span>            <span class="keywordtype">char</span> tmp_buffer[<a class="code hl_define" href="../../dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a">MAX_NAME_LEN</a>];</div>
 <div class="line"><a id="l00032" name="l00032"></a><span class="lineno">   32</span>            strcpy(tmp_buffer, <a class="code hl_struct" href="../../df/dea/structdata.html">data</a>[i]);</div>
@@ -353,7 +354,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a id="l00038" name="l00038"></a><span class="lineno">   38</span>        }</div>
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>    }</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span><span class="preprocessor">#ifdef DEBUG</span></div>
-<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keywordflow">for</span> (i = 0; i &lt; LEN; i++) printf(<span class="stringliteral">&quot;%s\t&quot;</span>, <a class="code hl_struct" href="../../df/dea/structdata.html">data</a>[i]);</div>
+<div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>    <span class="keywordflow">for</span> (i = 0; i &lt; <a class="code hl_define" href="../../df/d27/alaw_8c.html#a05b49c662c073f89e86804f7856622a0">LEN</a>; i++) printf(<span class="stringliteral">&quot;%s\t&quot;</span>, <a class="code hl_struct" href="../../df/dea/structdata.html">data</a>[i]);</div>
 <div class="line"><a id="l00042" name="l00042"></a><span class="lineno">   42</span><span class="preprocessor">#endif</span></div>
 <div class="line"><a id="l00043" name="l00043"></a><span class="lineno">   43</span>}</div>
 </div><!-- fragment -->

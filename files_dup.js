@@ -1,5 +1,6 @@
 var files_dup =
 [
+    [ "audio", "dir_a5f32cf82ad289a7dac212f63f40f55b.html", "dir_a5f32cf82ad289a7dac212f63f40f55b" ],
     [ "client_server", "dir_d20ad0b8de644c123692ba5582cc7a7b.html", "dir_d20ad0b8de644c123692ba5582cc7a7b" ],
     [ "conversions", "dir_9babc524d57e25f3d9f4179cabc3599e.html", "dir_9babc524d57e25f3d9f4179cabc3599e" ],
     [ "data_structures", "dir_2e746e9d06bf2d8ff842208bcc6ebcfc.html", "dir_2e746e9d06bf2d8ff842208bcc6ebcfc" ],
