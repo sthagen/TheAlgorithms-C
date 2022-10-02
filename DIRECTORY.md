@@ -267,6 +267,7 @@
   * [Fibonacci](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci.c)
   * [Fibonacci Dp](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci_dp.c)
   * [Fibonacci Fast](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci_fast.c)
+  * [Fibonacci Formula](https://github.com/TheAlgorithms/C/blob/master/misc/fibonacci_formula.c)
   * [Gcd](https://github.com/TheAlgorithms/C/blob/master/misc/gcd.c)
   * [Is Armstrong](https://github.com/TheAlgorithms/C/blob/master/misc/is_armstrong.c)
   * [Large Factorials](https://github.com/TheAlgorithms/C/blob/master/misc/large_factorials.c)
