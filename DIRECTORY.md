@@ -123,6 +123,7 @@
 
 ## Dynamic Programming
   * [Lcs](https://github.com/TheAlgorithms/C/blob/HEAD/dynamic_programming/lcs.c)
+  * [Matrix Chain Order](https://github.com/TheAlgorithms/C/blob/HEAD/dynamic_programming/matrix_chain_order.c)
 
 ## Exercism
   * Acronym
@@ -180,6 +181,7 @@
     * [11](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/11.c)
     * [110](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/110.c)
     * [112](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/112.c)
+    * [1137](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/1137.c)
     * [1147](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/1147.c)
     * [118](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/118.c)
     * [1184](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/1184.c)
@@ -188,6 +190,7 @@
     * [12](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/12.c)
     * [1207](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/1207.c)
     * [121](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/121.c)
+    * [124](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/124.c)
     * [125](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/125.c)
     * [1283](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/1283.c)
     * [13](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/13.c)
@@ -263,6 +266,7 @@
     * [461](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/461.c)
     * [476](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/476.c)
     * [485](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/485.c)
+    * [50](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/50.c)
     * [509](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/509.c)
     * [520](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/520.c)
     * [53](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/53.c)
@@ -302,6 +306,7 @@
     * [977](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/977.c)
     * [98](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/98.c)
     * [985](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/985.c)
+    * [997](https://github.com/TheAlgorithms/C/blob/HEAD/leetcode/src/997.c)
 
 ## Machine Learning
   * [Adaline Learning](https://github.com/TheAlgorithms/C/blob/HEAD/machine_learning/adaline_learning.c)
@@ -335,6 +340,7 @@
 
 ## Misc
   * [Demonetization](https://github.com/TheAlgorithms/C/blob/HEAD/misc/demonetization.c)
+  * [Hamming Distance](https://github.com/TheAlgorithms/C/blob/HEAD/misc/hamming_distance.c)
   * [Lexicographic Permutations](https://github.com/TheAlgorithms/C/blob/HEAD/misc/lexicographic_permutations.c)
   * [Longest Subsequence](https://github.com/TheAlgorithms/C/blob/HEAD/misc/longest_subsequence.c)
   * [Mirror](https://github.com/TheAlgorithms/C/blob/HEAD/misc/mirror.c)
